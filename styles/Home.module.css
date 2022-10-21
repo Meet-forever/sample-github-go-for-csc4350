@@ -90,6 +90,16 @@
   text-align: center;
 }
 
+.hobox{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hobox > span{
+  margin-left: 10px;
+}
+
 .listblock{
   background-color: rgb(34, 34, 34);
   margin: 5px;
